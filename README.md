@@ -14,7 +14,8 @@
 - 📣 **Recruitment PR**: 採用ブランディングを通じた企業の魅力発信を支援
 - 🤝 **Full-cycle Career Advisor**: 企業と求職者の双方を支援するキャリアアドバイザー
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=iam-ryotasekine&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=iam-ryotasekine&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iam-ryotasekine&show_icons=true&theme=radical)
 
 ## 🤝 Connect with Me
 ビジネスに関する詳細やキャリアについては、LinkedInでお気軽に繋がってください！
