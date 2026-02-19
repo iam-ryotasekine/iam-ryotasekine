@@ -12,7 +12,7 @@
   
   🤖 GitHub Actionsによる完全自動運用
 
-## Value Creation History 🤝
+## 📚 Value Creation History
 - 🚀 **B2B Vertical SaaS Sales**: 業界特化型SaaSのセールスに従事
 - 📣 **Recruitment PR**: 採用ブランディングを通じた企業の魅力発信を支援
 - 🤝 **Full-cycle Career Advisor**: 企業と求職者の双方を支援するキャリアアドバイザー
