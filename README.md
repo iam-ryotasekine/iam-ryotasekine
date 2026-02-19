@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Ryota Sekine | Empowering BIZ & DEV synergy with AI 👋
+## 🎯 My Mission　：　 **Empowering Non-Techies / Tech-Driven Business Evolution**
 
-<!--
-**iam-ryotasekine/iam-ryotasekine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+私は「非エンジニアがテクノロジーを使いこなし、ビジネスの現場を自らアップデートする」ことをテーマに活動しています。
 
-Here are some ideas to get you started:
+- 💼 Professional　:　 営業・現場目線の課題を、AIやITツールで解決する橋渡し役
+- 🤖 Current Focus　:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🧑‍💻 Google NewsからAI関連トピックを自動収集
+  
+  🛜 Gemini AIによる要約機能の実装（現在プロトタイプ開発中）
+  
+  🤖 GitHub Actionsによる完全自動運用
+
+## 🛠️ Tech Stack & Tools
+ 
+
+## 📈 Contribution Stats
+これまで毎日コードを書き続け、ビジネスとエンジニアリングの距離を縮める努力をしています。
+
+<img src="" />
+<img src="" />
+
+## Value Creation History 🤝
+- 🚀 **B2B Vertical SaaS Sales**: 業界特化型SaaSのセールスに従事
+- 📣 **Recruitment PR**: 採用ブランディングを通じた企業の魅力発信を支援
+- 🤝 **Full-cycle Career Advisor**: 企業と求職者の双方を支援するキャリアアドバイザー
+
+## 🤝 Connect with Me
+ビジネスに関する詳細やキャリアについては、LinkedInでお気軽に繋がってください！
+
