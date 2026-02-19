@@ -12,15 +12,6 @@
   
   🤖 GitHub Actionsによる完全自動運用
 
-## 🛠️ Tech Stack & Tools
- 
-
-## 📈 Contribution Stats
-これまで毎日コードを書き続け、ビジネスとエンジニアリングの距離を縮める努力をしています。
-
-<img src="" />
-<img src="" />
-
 ## Value Creation History 🤝
 - 🚀 **B2B Vertical SaaS Sales**: 業界特化型SaaSのセールスに従事
 - 📣 **Recruitment PR**: 採用ブランディングを通じた企業の魅力発信を支援
