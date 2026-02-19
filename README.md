@@ -5,12 +5,9 @@
 
 - 💼 Professional　:　 営業・現場目線の課題を、AIやITツールで解決する橋渡し役
 - 🤖 Current Focus　:
-
-  🧑‍💻 Google NewsからAI関連トピックを自動収集
-  
-  🛜 Gemini AIによる要約機能の実装（現在プロトタイプ開発中）
-  
-  🤖 GitHub Actionsによる完全自動運用
+    - 🧑‍💻 Google NewsからAI関連トピックを自動収集
+    - 🛜 Gemini AIによる要約機能の実装（現在プロトタイプ開発中）
+    - 🤖 GitHub Actionsによる完全自動運用
 
 ## 📚 Value Creation History
 - 🚀 **B2B Vertical SaaS Sales**: 業界特化型SaaSのセールスに従事
