@@ -1,5 +1,5 @@
 # Hi, I'm Ryota Sekine | Empowering BIZ & DEV synergy with AI 👋
-## 🎯 My Mission　：　 **Empowering Non-Techies / Tech-Driven Business Evolution**
+## 🎯 My Mission ： **Empowering Non-Techies / Tech-Driven Business Evolution**
 
 私は「非エンジニアがテクノロジーを使いこなし、ビジネスの現場を自らアップデートする」ことをテーマに活動しています。
 
